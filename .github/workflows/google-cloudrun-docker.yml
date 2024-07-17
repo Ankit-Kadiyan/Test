@@ -51,7 +51,7 @@ on:
 env:
   PROJECT_ID: kiran-429715 # TODO: update Google Cloud project id
   GAR_LOCATION: europe-west2 # TODO: update Artifact Registry location
-  SERVICE: cal_app # TODO: update Cloud Run service name
+  SERVICE: calapp # TODO: update Cloud Run service name
   GAR_NAME: cal-dock # name of Google Artifact Registry
   REGION: europe-west2 # TODO: update Cloud Run service region
 
